@@ -38,6 +38,7 @@ h1{
     background-color: #3b2f2f;
     text-align: center;
     color: #fff;
+    display:table;
 }
 
 h2{
@@ -125,4 +126,10 @@ hr{
 .bot-text{
     padding-bottom: 5%;
     font-family: 'Yantramanav', sans-serif;
+}
+
+/*Img auto resize*/
+img{
+    max-width:100%;
+    height:auto;
 }
