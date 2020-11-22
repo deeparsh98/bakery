@@ -1,0 +1,128 @@
+/* title */
+
+#main{
+    background-image: url(../images/main.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100%  ;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+   
+
+}
+
+h1{
+    font-size: 90px;
+    padding-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+.top-text{
+    letter-spacing: 5px;
+    font-size: 25px;
+    border-bottom: dotted;
+    border-bottom-width: 5px;
+    border-radius: 50%;
+    padding:10px 0 2%;
+    width:150px;
+    margin: auto;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+/* second-page */
+
+#second-page{
+    width: 100%;
+    height: 100vh;
+    background-color: #3b2f2f;
+    text-align: center;
+    color: #fff;
+}
+
+h2{
+    text-align: center;
+    padding: 5% 20% 0 20%;
+    font-family: 'Playfair Display', serif;
+}
+.text{
+    padding: 0 20% 0 20%;
+    font-family: 'Yantramanav', sans-serif;
+
+    
+    
+}
+
+hr{
+    border-bottom: dotted;
+    border-top: 0px;
+    width: 80px;
+    
+}
+
+.container{
+    padding-top: 3%;
+
+}
+.second-text{
+    padding-top: 5%;
+    font-family: 'Yantramanav', sans-serif;
+   
+}
+
+
+
+/* menu */
+
+.third-image{
+    width: 100%;
+    height: 700px;
+}
+
+.fourth-image{
+    width: 100%;
+    height: 700px;
+}
+.third-head{
+    padding-top: 40%;
+    padding-bottom: 10%;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.third-text{
+    font-family: 'Yantramanav', sans-serif;
+
+}
+.center-column{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 50px;
+    background-color: #3b2f2f;
+    color: white;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+/* contact */
+
+#Contact{
+    text-align: center;
+    width: 100%;
+    height: 100ev;
+    color: white;
+    background-color: #3b2f2f;
+}
+
+.contact-head{
+    padding-top: 7%;
+    padding-bottom: 5%;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.bot-text{
+    padding-bottom: 5%;
+    font-family: 'Yantramanav', sans-serif;
+}
